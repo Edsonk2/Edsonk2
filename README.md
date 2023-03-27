@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 	 :computer:
 
-<!--
-**Edsonk2/Edsonk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou Edson oliveira sou programador front End,atualmente estaou aprendendo e criando projetos com;
+<br>
+<br>
+-HTML <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
 
-Here are some ideas to get you started:
+-CSS <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![EDSON K2](https://github-readme-stats.vercel.app/api?username=edsonk2)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edsonk2)](https://github.com/anuraghazra/github-readme-stats)
+
+
